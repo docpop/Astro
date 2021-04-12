@@ -1,5 +1,5 @@
 # Astro Weight
-## _A 3D printed Astro-style counterweight for yo-oyers_
+## _A 3D printed Astro-style counterweight for yo-yoers_
 [![N|Solid](https://doctorpopular.com/wp-content/uploads/2021/04/astro-logo.jpg)](http://doctorpopular.com/)
 
 Astro is a substyle of 5A (or "counterweight style") yo-yoing. An Astro counterweight consists of two pieces: one piece that is tethered to the end of the string and another, usually heavier, piece that freely slides along the yo-yo string. The player can do any existing counterweight tricks by keeping the two weights together near the end of the string, or the player can experiment with new tricks by sliding the weight along the string or taking advantage of having two weights instead of one. Astro was created by Doctor Popular.
@@ -25,6 +25,17 @@ The Astro Weights included in this project are the first counterweights Doc desi
 - [Doc Pop's guide to setting up your Astro weights](https://youtu.be/wQupSLYuWQs)
 - [Machitako's Astro Counter Weighed Tutorials](https://www.youtube.com/playlist?list=PLLrHQBQFp_ZvTVTo8tXJSLU38VtYvn79C)
 - [AKi's astrocwtrick](https://www.youtube.com/playlist?list=PLhjLHjTw39DduBlBimCz5aYBEVQA1N66R)
+
+### 3D Printing Guidelines
+This design is intended to be printed with the following settings:
+- 3 or more perimeters
+- 100% infill
+- No raft
+- No support material
+Infill can be reduced without negative effects, but it will reduce the weight. Because of the model's size and shape, there is not very much volume within it where infill can be used, so reducing the infill will not necessarily reduce the weight by much.
+
+### Model Info
+The CAD drawing is done using FreeCAD, an open source solid modeling tool. If interested in modifying it, make sure to use FreeCAD 0.19. Older versions of FreeCAD do not render the model properly.
 
 ## License
 [![N|Solid](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
