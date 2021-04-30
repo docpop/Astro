@@ -32,6 +32,7 @@ This design is intended to be printed with the following settings:
 - 100% infill
 - No raft
 - No support material
+
 Infill can be reduced without negative effects, but it will reduce the weight. Because of the model's size and shape, there is not very much volume within it where infill can be used, so reducing the infill will not necessarily reduce the weight by much.
 
 ### Model Info
