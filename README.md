@@ -25,6 +25,8 @@ The Astro Weights included in this project are the first counterweights Doc desi
 - [Doc Pop's guide to setting up your Astro weights](https://youtu.be/wQupSLYuWQs)
 - [Machitako's Astro Counter Weighed Tutorials](https://www.youtube.com/playlist?list=PLLrHQBQFp_ZvTVTo8tXJSLU38VtYvn79C)
 - [AKi's astrocwtrick](https://www.youtube.com/playlist?list=PLhjLHjTw39DduBlBimCz5aYBEVQA1N66R)
+- [D.K.5.A.'s Astro CW Trick](https://youtube.com/playlist?list=PL2QSn5t08e7F291gk06rUlkiwVsuqqRb2)
+- [Mr YoyoThrower's Double Dice](https://youtube.com/playlist?list=PLwMQ2twUtKwLtWD46igxGEvyQcn-oUNAJ)
 
 ### 3D Printing Guidelines
 This design is intended to be printed with the following settings:
